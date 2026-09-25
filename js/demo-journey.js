@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Kitchen and bath remodels, additions, and general building. Across Ontario and the Inland Empire. Jod looks at the job first and puts the price in writing.';
+            'Kitchen and bath remodels, additions, and general building in Ontario. Jod looks at the job first and puts the price in writing.';
         }
       }
     },
